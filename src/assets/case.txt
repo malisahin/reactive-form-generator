@@ -1,0 +1,17 @@
+Group, Control, Array
+
+Group => { Group, Control, Array}
+Array => {Group, Control, Array}
+
+Validations, Cross-Validations, Dynamic Validations, Async Validations
+
+{
+  a: {},
+  b: [{}, {}],
+  c: '',
+  d: {
+      d1: {},
+      d2: [],
+      d3: '',
+      }
+}
